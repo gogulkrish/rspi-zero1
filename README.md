@@ -1,3 +1,2 @@
-<a href="https://chettinad.swm5.repl.co/" class="button">TAP HERE /a>
-<input class="button" type="submit" value="Post comment (input)">
-<button class="button" type="submit">Smart waste management</button>
+<a href="https://chettinad.swm5.repl.co/" class="button icon search">SMART WASTE MANAGEMENT</a>
+
