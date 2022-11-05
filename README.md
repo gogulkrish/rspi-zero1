@@ -1,37 +1,11 @@
-
-<!DOCTYPE html>
-<html>
-      
-<head>
-    <title>
-        Create an HTML button that
-        acts like a link
-    </title>
-      
-    <!-- Style to create button -->
-    <style>
-        .GFG {
-            background-color: white;
-            border: 2px solid black;
-            color: green;
-            padding: 5px 10px;
-            text-align: center;
-            display: inline-block;
-            font-size: 20px;
-            margin: 10px 30px;
-            cursor: pointer;
-        }
-    </style>
-</head>
-  
 <body>
     <h1>GeeksforGeeks</h1>
       
-    <!-- Adding link to the button on the onclick event -->
-    <button class="GFG" 
-    onclick="window.location.href = 'https://chettinad.swm5.repl.co/';">
-        Click Here
-    </button>
+    <!-- Create a form then add button
+        inside the form -->
+    <form action="https://chettinad.swm5.repl.co/">
+        <button class = "gfg" type="submit">
+            Click Here
+        </button>
+    </form>
 </body>
-  
-</html>    
