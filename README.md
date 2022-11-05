@@ -1,11 +1,3 @@
-<body>
-    <h1>GeeksforGeeks</h1>
-      
-    <!-- Create a form then add button
-        inside the form -->
-    <form action="https://chettinad.swm5.repl.co/">
-        <button class = "gfg" type="submit">
-            Click Here
-        </button>
-    </form>
-</body>
+<a href="https://chettinad.swm5.repl.co/" class="button">Post comment (link)</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button>
